@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpinnerActivity</string>
+    <string name="rice_info">Rice is a staple crop that thrives in monsoon climates. It requires loam soil and moderate water availability.Treat the seed with recommended fungicides for minimizing the disease incidence.</string>
+    <string name="corn_info">Sweet corn is a tender, warm-season annual crop that produces ears of yellow, white, or bi-colored kernels.A long, frost-free growing season (60 to 100 frost-free days) is necessary to grow and harvest corn. Don’t be tempted to sow too early though. Mid to late spring is just fine, once any chance of frosts are long gone.
+
+And corn is a grass! A member of the Poaceae family, corn relies on wind to pollinate its flowers, not bees or insects. This is why we plant corn in blocks of short rows instead of long, single rows. </string>
+    <string name="tomato_info">Juicy tomatoes need 1 to 2 inches of water per week.But not all at once.Aim for consistent moisture.</string>
+    <string name="potato_info">Garden potatoes can be planted 2 to 4 weeks before the average last frost date. The soil temperature should be at least 55°F during the day and 45°F at night. But pay more attention to the soil than the calendar to determine planting time. The soil should not be so wet that it sticks together and is hard to work. Let it dry out a bit first. </string>
+</resources>

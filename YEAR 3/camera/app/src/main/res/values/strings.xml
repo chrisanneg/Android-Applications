@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">camera</string>
+    <string name="baldurs_gate_cam">Baldurs Gate</string>
+    <string name="next">Next</string>
+    <string name="text1">Click next for a virtual augmentation of the elf world</string>
+    <string name="click_a_photo">Click a Photo</string>
+    <string name="record_a_video">Record a Video</string>
+    <string name="back">Back</string>
+    <string name="elf_cam">Elf Cam</string>
+    <string name="record_video">Record Video</string>
+</resources>
